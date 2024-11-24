@@ -1,4 +1,4 @@
-#Random Raycast Voxel Game Engine: A Conceptual Overview
+# Random Raycast Voxel Game Engine: A Conceptual Overview
 A random raycast voxel game engine is a type of game engine that renders 3D worlds composed of voxels (volumetric pixels) using a technique called raycasting. This technique involves casting rays from the camera's position into the 3D world and determining the first voxel that the ray intersects. The color and texture of this voxel are then used to render the pixel on the screen.
 Key Components of a Random Raycast Voxel Game Engine:
  * Voxel World:
